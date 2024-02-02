@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Peter Prastakos"
+excerpt: "I am a PhD student in Operations Research at MIT, fortunate to be advised by Prof. Rahul Mazumder. My interests lie at the intersection of mathematical optimization, statistics, machine learning, and differential privacy."
 author_profile: true
 redirect_from: 
   - /about/
