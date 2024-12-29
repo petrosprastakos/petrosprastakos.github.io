@@ -12,6 +12,8 @@ I was previously a Senior Research Analyst in the Banking Studies department of 
 
 Aside from problem solving, I also enjoy teaching, doing calisthenics, swimming, running, biking, rowing, and listening to rap & contemporary classical music. I hold Greek and US dual citizenship.
 
+email: pprastak AT mit DOT edu
+
 # Publications
 **[Differentially Private Best Subset Selection Via Integer Programming](https://openreview.net/forum?id=EZkiDK6nhj)**  
 *Kayhan Behdin, Petros Prastakos, Rahul Mazumder*  
