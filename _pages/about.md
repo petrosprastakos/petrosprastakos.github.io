@@ -12,4 +12,4 @@ I am a PhD student in Operations Research at MIT, fortunate to be advised by Pro
 # Publications
 **Differentially Private Best Subset Selection Via Integer Programming**
 Kayhan Behdin, Petros Prastakos, Rahul Mazumder
-ICLR Workshop on Private ML 2024
+International Conference in Learning Representations (ICLR) Workshop on Private ML 2024
