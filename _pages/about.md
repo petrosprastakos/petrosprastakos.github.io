@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Petros Prastakos"
-excerpt: "About me"
+title: "Petros (Peter) Prastakos"
 author_profile: true
 redirect_from: 
   - /about/
