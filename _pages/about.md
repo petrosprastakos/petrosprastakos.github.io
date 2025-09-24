@@ -15,6 +15,7 @@ Aside from problem solving, I also enjoy teaching, learning geography, doing cal
 email: pprastak AT mit DOT edu
 
 # Publications
-**[Differentially Private Best Subset Selection Via Integer Programming](https://openreview.net/forum?id=EZkiDK6nhj)**  
-*Kayhan Behdin, Petros Prastakos, Rahul Mazumder*  
-International Conference on Learning Representations (ICLR) Workshop on Private ML 2024
+**Differentially Private High-dimensional Variable Selection via Integer Programming**  
+* **Petros Prastakos**, Kayhan Behdin, Rahul Mazumder*
+NeurIPS 2025
+*Preliminary version appeared at the ICLR 2024 Workshop on Private ML*
