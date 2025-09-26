@@ -15,7 +15,7 @@ Aside from problem solving, I also enjoy teaching, learning geography, doing cal
 email: pprastak AT mit DOT edu
 
 # Publications
-**Differentially Private High-dimensional Variable Selection via Integer Programming**  
-***Petros Prastakos**, Kayhan Behdin, Rahul Mazumder*  
+* Differentially Private High-dimensional Variable Selection via Integer Programming  
+**Petros Prastakos**, Kayhan Behdin, Rahul Mazumder  
 NeurIPS 2025  
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*
