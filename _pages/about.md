@@ -10,7 +10,7 @@ Welcome! I'm Petros (Peter), a 3rd year Ph.D. student in Operations Research at 
 
 I was previously a Senior Research Analyst in the Banking Studies department of the [NY Fed Research & Statistics Division](https://www.newyorkfed.org/research), working on numerous research and policy projects regarding bank reserves and their effect on monetary policy implementation. I received my B.S. degree in Applied Mathematics (with a concentration in Computer Science) and Economics from Yale, graduating with honors and distinction in both majors.  
 
-Aside from problem solving, I also enjoy teaching, learning geography, doing calisthenics, swimming, biking, rowing, and listening to rap & contemporary classical music. I hold Greek and US dual citizenship.
+Aside from problem solving, I also enjoy teaching, [geography](https://www.youtube.com/watch?v=ZVyOr2Sytfg), calisthenics, swimming, biking, rowing, and listening to rap & contemporary classical music. I hold Greek and US dual citizenship.
 
 email: pprastak AT mit DOT edu
 
