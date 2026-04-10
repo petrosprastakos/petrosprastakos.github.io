@@ -21,5 +21,5 @@ email: pprastak AT mit DOT edu
 **Petros Prastakos**, Kayhan Behdin, Rahul Mazumder  
 NeurIPS 2025  
 *Presented at TPDP 2026*  
-*Presented at Columbia Workshop on Robust Statistics*  
+*Presented at 2026 Columbia Workshop on Robust Statistics*  
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*
