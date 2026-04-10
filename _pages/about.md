@@ -20,6 +20,6 @@ email: pprastak AT mit DOT edu
 * [Differentially Private High-dimensional Variable Selection via Integer Programming](https://arxiv.org/abs/2510.22062)  
 **Petros Prastakos**, Kayhan Behdin, Rahul Mazumder  
 NeurIPS 2025
-*Presented at TPDP 2026*
-*Presented at Columbia Workshop on Robust Statistics*
+*Presented at TPDP 2026* 
+*Presented at Columbia Workshop on Robust Statistics* 
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*
