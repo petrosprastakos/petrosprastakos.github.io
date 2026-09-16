@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Petros, a 4th year Ph.D. student in Operations Research at MIT, advised by Prof. [Rahul Mazumder](https://www.mit.edu/~rahulmaz/). My interests lie at the intersection of mathematical optimization, high-dimensional statistics and machine learning.
+Welcome! I'm Petros, a 4th year Ph.D. student in Operations Research at MIT, advised by Prof. [Rahul Mazumder](https://www.mit.edu/~rahulmaz/). My interests lie at the intersection of mathematical optimization, high-dimensional statistics, and machine learning.
 
 In the summer of 2026, I interned at LinkedIn’s AI Foundations team within CoreAI, conducting research on Mixture-of-Experts (MoE) language model compression.
 
