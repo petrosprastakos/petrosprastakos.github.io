@@ -23,10 +23,10 @@ NeurIPS 2025
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*  
 *Presented at TPDP 2026, 2026 Columbia University Workshop on Robust Statistics*
 
-* Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models
+* Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models  
 Jelena Markovic-Voronov*, **Petros Prastakos***, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder
 Preprint; under review at ICLR 2027
 
-* Interpretable Multistudy Learning with Similarity-Coupled Decision Rules
+* Interpretable Multistudy Learning with Similarity-Coupled Decision Rules  
 **Petros Prastakos**, Gabriel Loewinger, Brian Liu, Rahul Mazumder
 Preprint
