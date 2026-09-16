@@ -16,7 +16,7 @@ In the summer of 2026, I interned at LinkedIn’s AI Foundations team within Cor
 
 email: pprastak AT mit DOT edu
 
-# Publications
+# Publications ( * denotes equal contribution )
 * [Differentially Private High-dimensional Variable Selection via Integer Programming](https://arxiv.org/abs/2510.22062)  
 **Petros Prastakos**, Kayhan Behdin, Rahul Mazumder  
 NeurIPS 2025  
