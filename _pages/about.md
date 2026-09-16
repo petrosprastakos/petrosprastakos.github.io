@@ -22,7 +22,7 @@ email: pprastak AT mit DOT edu
 **Petros Prastakos**, Kayhan Behdin, Rahul Mazumder  
 NeurIPS 2025  
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*  
-*Presented at TPDP 2026, 2026 Columbia University Workshop on Robust Statistics*
+*Presented at TPDP 2026 and 2026 Columbia University Workshop on Robust Statistics*
 
 * Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models  
 Jelena Markovic-Voronov\*, **Petros Prastakos**\*, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder  
