@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome! I'm Petros, a 4th year Ph.D. student in Operations Research at MIT, advised by Prof. [Rahul Mazumder](https://www.mit.edu/~rahulmaz/). My interests lie at the intersection of mathematical optimization, high-dimensional statistics, and machine learning.
 
-In the summer of 2026, I interned at LinkedIn’s AI Foundations team within CoreAI, conducting research on Mixture-of-Experts (MoE) language model compression.
+In the summer of 2026, I interned at LinkedIn’s AI Foundations team within CoreAI, working on Mixture of Experts (MoE) language model compression.
 
 I was previously a Senior Research Analyst in the Banking Studies department of the [NY Fed Research & Statistics Division](https://www.newyorkfed.org/research), working on numerous research and policy projects regarding bank reserves and their effect on monetary policy implementation. I received my B.S. degree in Applied Mathematics (with a concentration in Computer Science) and Economics from Yale, graduating with honors and distinction in both majors.  
 
