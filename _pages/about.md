@@ -26,8 +26,8 @@ NeurIPS 2025
 *Presented at TPDP 2026 and 2026 Columbia University Workshop on Robust Statistics*
 
 * Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models  
-Jelena Markovic-Voronov\*, **Petros Prastakos\***, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder
-NeurIPS 2026 AXIOM Workshop on Foundations of Efficient Deep Learning
+Jelena Markovic-Voronov\*, **Petros Prastakos\***, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder  
+NeurIPS 2026 AXIOM Workshop on Foundations of Efficient Deep Learning  
 
 * Interpretable Multistudy Learning with Similarity-Coupled Decision Rules  
 **Petros Prastakos**, Gabriel Loewinger, Brian Liu, Rahul Mazumder  
