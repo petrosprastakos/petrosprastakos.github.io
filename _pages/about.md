@@ -25,7 +25,7 @@ NeurIPS 2025
 *Preliminary version appeared at the ICLR 2024 Workshop on Private ML*  
 *Presented at TPDP 2026 and 2026 Columbia University Workshop on Robust Statistics*
 
-* Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models  
+* [Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models](https://openreview.net/forum?id=381nqljeZH)  
 Jelena Markovic-Voronov\*, **Petros Prastakos\***, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder  
 NeurIPS 2026 AXIOM Workshop on Foundations of Efficient Deep Learning  
 
