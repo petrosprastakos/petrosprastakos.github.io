@@ -27,7 +27,11 @@ NeurIPS 2025
 
 * [Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models](https://arxiv.org/abs/2610.27123)  
 Jelena Markovic-Voronov\*, **Petros Prastakos\***, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Shayan Mohajer Hamidi, Rohit K Patra, Rahul Mazumder   
-NeurIPS 2026 AXIOM Workshop on Foundations of Efficient Deep Learning  
+NeurIPS 2026 AXIOM Workshop on Foundations of Efficient Deep Learning
+
+* [Online Temporal Rotations for 2 Bit KV-Cache Quantization in Video Diffusion Transformers](https://arxiv.org/abs/2611.26334v1)  
+Ryan Lucas, **Petros Prastakos**, Rahul Mazumder  
+Preprint   
 
 * Interpretable Multistudy Learning with Similarity-Coupled Decision Rules  
 **Petros Prastakos**, Gabriel Loewinger, Brian Liu, Rahul Mazumder  
